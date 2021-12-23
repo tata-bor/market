@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-213.5744.223">
+    <data-source name="mini-market" uuid="17615312-8a47-4e25-96b9-6581fb745c29">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
